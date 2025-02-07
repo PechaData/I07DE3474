@@ -1,39 +1,39 @@
 {
   "id": "I07DE3474",
   "title": {
-    "en": "The Ship that Enters the Ocean of Mahayana, A Commentary Illuminating the Entry into the Middle Way",
-    "bo": "འཇུག་པ་གསལ་བྱེད་ཐེག་ཆེན་རྒྱ་མཚོར་འཇུག་པའི་གྲུ་རྫིངས།"
+    "bo": "འཇུག་པ་གསལ་བྱེད་ཐེག་ཆེན་རྒྱ་མཚོར་འཇུག་པའི་གྲུ་རྫིངས།",
+    "en": "The Ship that Enters the Ocean of Mahayana, A Commentary Illuminating the Entry into the Middle Way"
   },
   "author": {
-    "en": "None",
-    "bo": "ཏཱ་ལའི་བླ་མ ༠༥་ངག་དབང་བློ་བཟང་རྒྱ་མཚོ།"
+    "bo": "ཏཱ་ལའི་བླ་མ ༠༥་ངག་དབང་བློ་བཟང་རྒྱ་མཚོ།",
+    "en": "None"
   },
-  "imported": "2025-02-06T10:43:25.286377",
+  "imported": "2025-02-07T14:50:17.711644",
   "source": "https://library.bdrc.io/show/bdr:WA0XLB5B5342F69DF?tabs=bdr:MW1PD107937_79CED1",
   "toolkit_version": "0.0.1",
   "parser": "DocxNumberListCommentaryParser",
   "initial_creation_type": "google_docx",
   "language": "bo",
   "source_metadata": {
+    "document_id": "1KiiOP7oBrGlP2sBy3Y9YI5OfA4vtJzCdD6VlTHdzwDs",
+    "commentary_alignments": [
+      {
+        "source": "IA74EAD05/layers/717E/Tibetan_Segment-DA1B.json",
+        "target": "I07DE3474/layers/DD9C/Meaning_Segment-344C.json"
+      }
+    ],
+    "long_title": {
+      "bo": "བསྟན་བཅོས་ཆེན་པོ་དབུ་མ་ལ་འཇུག་པ་གསལ་བར་བྱེད་པ་ཐེག་ཆེན་རྒྱ་མཚོར་འཇུག་པའི་གྲུ་རྫིངས།",
+      "en": "The Ship that Enters the Ocean of Mahayana, A Commentary Illuminating the Great Treatise 'Entry into the Middle Way"
+    },
     "presentation": {
       "en": ""
     },
     "usage_title": {
-      "en": "The Ship that Enters the Ocean of Mahayana, A Commentary Illuminating the Entry into the Middle Way",
-      "bo": "འཇུག་པ་གསལ་བྱེད་ཐེག་ཆེན་རྒྱ་མཚོར་འཇུག་པའི་གྲུ་རྫིངས།"
+      "bo": "འཇུག་པ་གསལ་བྱེད་ཐེག་ཆེན་རྒྱ་མཚོར་འཇུག་པའི་གྲུ་རྫིངས།",
+      "en": "The Ship that Enters the Ocean of Mahayana, A Commentary Illuminating the Entry into the Middle Way"
     },
-    "long_title": {
-      "en": "The Ship that Enters the Ocean of Mahayana, A Commentary Illuminating the Great Treatise 'Entry into the Middle Way",
-      "bo": "བསྟན་བཅོས་ཆེན་པོ་དབུ་མ་ལ་འཇུག་པ་གསལ་བར་བྱེད་པ་ཐེག་ཆེན་རྒྱ་མཚོར་འཇུག་པའི་གྲུ་རྫིངས།"
-    },
-    "commentary_of": "IA74EAD05",
-    "document_id": "1KiiOP7oBrGlP2sBy3Y9YI5OfA4vtJzCdD6VlTHdzwDs",
-    "commentary_alignments": [
-      {
-        "source": "IA74EAD05/layers/EFF3/Tibetan_Segment-E8B1.json",
-        "target": "I07DE3474/layers/FE1C/Meaning_Segment-3BE4.json"
-      }
-    ]
+    "commentary_of": "IA74EAD05"
   },
   "bases": [],
   "copyright": {
