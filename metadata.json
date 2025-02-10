@@ -8,7 +8,7 @@
     "bo": "ཏཱ་ལའི་བླ་མ ༠༥་ངག་དབང་བློ་བཟང་རྒྱ་མཚོ།",
     "en": "None"
   },
-  "imported": "2025-02-07T14:50:17.711644",
+  "imported": "2025-02-10T10:39:07.096071",
   "source": "https://library.bdrc.io/show/bdr:WA0XLB5B5342F69DF?tabs=bdr:MW1PD107937_79CED1",
   "toolkit_version": "0.0.1",
   "parser": "DocxNumberListCommentaryParser",
@@ -19,7 +19,7 @@
     "commentary_alignments": [
       {
         "source": "IA74EAD05/layers/717E/Tibetan_Segment-DA1B.json",
-        "target": "I07DE3474/layers/DD9C/Meaning_Segment-344C.json"
+        "target": "I07DE3474/layers/C735/Meaning_Segment-5E94.json"
       }
     ],
     "long_title": {
